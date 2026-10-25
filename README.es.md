@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Lieth Alith - Datos, Sistemas de Información, Software" />
+<img src="header.svg" width="100%" alt="Génesis Tenorio - Datos, Sistemas de Información, Software" />
 
 **🇪🇸 Español** · [🇺🇸 Read in English](README.md)
 
@@ -20,9 +20,9 @@ Apasionada por **convertir datos en decisiones** y crear soluciones tecnológica
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas de Información Gerencial en la Universidad Tecnológica de Panamá
-- 🎤 Compartí mis conocimientos de análisis de datos con Python en **TechHorizons Panamá 2025**
+- 📈 Me encanta el análisis de datos y me motiva acercar la tecnología a las nuevas generaciones de jóvenes
 - 📊 Manejo del paquete **Microsoft Office**, incluyendo **Excel** y **Power BI**
-- 💪 Con buen manejo de: **Python · HTML · C#**
+- 💪 Con experiencia práctica en: **Python · HTML · C#**
 - 🌱 Aprendiendo: **Java · Arduino**
 - 🤝 Abierta a colaborar en **sistemas basados en datos** y **proyectos de software**
 
@@ -71,17 +71,24 @@ Dirigí sesiones de análisis de datos con librerías de Python como **pandas**,
 - 📊 Análisis de datos
 - 🗂️ Sistemas de información
 - 📝 Planeación, diseño y desarrollo de software
+- 📱 Diseño de aplicaciones (UI/UX)
+- 📈 Inteligencia de negocios y visualización de datos
 - 🔌 Electrónica y Arduino
-- 🌐 Tecnologías emergentes
 
 ---
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [IlkaPoint-App](https://github.com/MasterFx04/IlkaPoint-App) | Sistema de gestión desarrollado para la Abarrotería Ilca, pensado para reemplazar los registros manuales y cuadernos por una herramienta digital sencilla. | C# |
-| [spacebirds-game-unity](https://github.com/MasterFx04/spacebirds-game-unity) | Clon de Angry Birds Space desarrollado en Unity 2D como proyecto semestral en equipo. | C# · Unity |
+### 🏪 [IlkaPoint-App](https://github.com/MasterFx04/IlkaPoint-App)
+Sistema de gestión desarrollado para la Abarrotería Ilca, pensado para reemplazar los registros manuales y cuadernos por una herramienta digital sencilla.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+
+### 🚀 [spacebirds-game-unity](https://github.com/MasterFx04/spacebirds-game-unity)
+Clon de Angry Birds Space desarrollado en Unity 2D como proyecto semestral en equipo.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
